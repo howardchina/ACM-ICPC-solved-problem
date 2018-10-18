@@ -1,4 +1,4 @@
-# Solved Problem list
+# Selected Solved Problem list
 
 in C/C++
 
