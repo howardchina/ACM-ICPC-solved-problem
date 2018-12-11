@@ -2,7 +2,7 @@
 
 in C/C++
 
-## my imfo on OJ
+## my info on OJ
 
 1 VJudge, Virtual Judge: <a href="https://vjudge.net/user/howardchina12"><strong>[link]</strong></a> <a href="./vjudge" ><strong>[code samples]</strong></a> user code available (for relevant problem desprection, open this site<a href="https://vjudge.net/user/howardchina12"><strong>[link]</strong></a>, and click the "Detail <strong>Toggle</strong>" on the last column of table)
 
